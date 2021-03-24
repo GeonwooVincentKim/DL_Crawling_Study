@@ -7,7 +7,7 @@ This is the project that `crawls` several data from `several-website`.
 ### If you trying to use this project in `Visual-Studio Code`
 
 - `python -m venv yourVirtualEnvironment_Name`
-- `[Settings up your Project]`(https://stackoverflow.com/questions/54106071/how-to-setup-virtual-environment-for-python-in-vs-code)
+- [Settings up your Project](https://stackoverflow.com/questions/54106071/how-to-setup-virtual-environment-for-python-in-vs-code)
 
 
 ### If you trying to use this project in `Pycharm`
