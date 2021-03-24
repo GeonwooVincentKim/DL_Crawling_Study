@@ -14,3 +14,10 @@ This is the project that `crawls` several data from `several-website`.
 
 - Click `File` that is located on the `top-bar`
 - Click `New Project` and set your new `Python-Interpreter`
+
+## Project Settings
+
+- `[Feature]` - When you have a `new-feature` in your project, type `[Feature] - Some new Feature`
+- `[Modify]` - When you have a `modify-part` of your project or code, type `[Modify] - Some feature has been modified`
+- `[Merge]` - When you generate your own `Branch` and you're trying to get the `data` from `master-branch` or other `branch`, type `[Merge] - Merge from some-branch to other branch`
+- `[Delete]` - When you delete a `exist-feature` in your project or your code, type `[Delete] - Some feature or some code has been deleted`
